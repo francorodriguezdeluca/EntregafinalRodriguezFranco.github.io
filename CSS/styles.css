@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: large;
+    background-color: black;
+}
+
+/*Globales*/
+#header{
+    background-color: black;
+    padding: 20px;
+    margin-bottom: 25;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#header .logo img{
+    width: 400px;
+    height: auto;
+    border-bottom: 5px;
+    padding: 20px;
+    
+
+
+    
+}
+#header .menu   {
+    display: flex;
+    color: rgb(255, 255, 255);   
+    position: center;
+    margin: 20px 20px 20px 20px 20px ;
+    text-decoration: none;
+    list-style: none;
+    text-size-adjust: 30px;
+
+}   
+#header .menu  li a:hover{ 
+    color: rgb(255, 255, 255);
+}
+/*HOME*/
+#section .h2{
+    color: white;
+    font-size: x-large;
+}
+
+#main .h1{
+    font-size: x-large;
+    color: white;
+}
+
+#section .img1{
+    display: flex;
+    position: center;
+    
+}
+
+/*COMO LLEGAR*/
+#comollegar .contacto{
+    font-size: large;
+    color: white;
+}
+
+/*COMPRAR*/
+#comprar .img{
+    width: 640px;
+    height: 100%;
+
+}
+#comprar .img2{
+    width: 640px;
+    height: 100%;
+}
+
+
+/*NUEVOS*/
+#nuevos .img {
+    width: 640px;
+    height: 100%;
+}
+
+
+/*USADOS*/
+
+#usados .img2 {
+    width: 640px;
+    height: 100%;
+
+}
