@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family: sans-serif;
     font-size: large;
-    background-color: black;
+    background-color: red;
 }
 
 /*Globales*/
@@ -30,7 +30,7 @@
 #header .menu   {
     display: flex;
     color: rgb(255, 255, 255);   
-    position: center;
+  
     margin: 20px 20px 20px 20px 20px ;
     text-decoration: none;
     list-style: none;
