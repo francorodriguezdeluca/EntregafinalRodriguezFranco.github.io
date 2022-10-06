@@ -1,0 +1,28 @@
+header{
+    display: flex;
+    a:hover{
+        background-color: gray;
+    }
+    
+}
+
+body {
+    background-color: white;
+
+
+    div ul{
+        padding: 20px;
+        margin: 0px;
+        color: rgb(126, 23, 13);
+        font-size: 20px;
+        list-style:circle ;
+
+        }
+
+    div {
+        display: flex;
+        padding: 30px;
+        
+
+    }
+}

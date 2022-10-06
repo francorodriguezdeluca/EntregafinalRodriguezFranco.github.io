@@ -1,15 +1,6 @@
-*{
-    margin: 0%;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
-    font-size: large;
-    background-color: red;
-}
-
 /*Globales*/
 #header{
-    background-color: black;
+    background-color: rgb(40, 148, 16);
     padding: 20px;
     margin-bottom: 25;
     display: flex;
@@ -22,15 +13,10 @@
     height: auto;
     border-bottom: 5px;
     padding: 20px;
-    
-
-
-    
 }
 #header .menu   {
     display: flex;
     color: rgb(255, 255, 255);   
-  
     margin: 20px 20px 20px 20px 20px ;
     text-decoration: none;
     list-style: none;
@@ -60,7 +46,8 @@
 /*COMO LLEGAR*/
 #comollegar .contacto{
     font-size: large;
-    color: white;
+    color: rgb(251, 249, 249);
+    background-color: aqua;
 }
 
 /*COMPRAR*/
